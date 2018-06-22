@@ -25,7 +25,7 @@
 # 5. What is topk? **Answer**: Returns top k largest values of tensor along a specified dim
 # --------------------------
 # #### Need help with spots:
-# 1. Line 38 in "# Training loop definition": How to resize tensors so they can be concatenated? Purpose: to concatenate context (morphological tags) tensor to decoder hidden state (this is where it is initiated)
+# 1. Line 38 in "# Training loop definition"  (line 354 in .py file): How to resize tensors so they can be concatenated? Purpose: to concatenate context (morphological tags) tensor to decoder hidden state (this is where it is initiated)
 
 # In[ ]:
 
